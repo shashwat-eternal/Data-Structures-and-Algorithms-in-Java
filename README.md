@@ -67,11 +67,13 @@ class Solution {
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0010-regular-expression-matching) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
@@ -81,4 +83,8 @@ class Solution {
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
