@@ -87,4 +87,16 @@ class Solution {
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
