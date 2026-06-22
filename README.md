@@ -79,12 +79,14 @@ class Solution {
 | [0012-integer-to-roman](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -120,4 +122,8 @@ class Solution {
 | ------- |
 | [0015-3sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
