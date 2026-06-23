@@ -103,6 +103,7 @@ class Solution {
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0037-sudoku-solver) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -128,6 +129,7 @@ class Solution {
 | [0031-next-permutation](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ class Solution {
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0037-sudoku-solver) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,4 +203,5 @@ class Solution {
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
