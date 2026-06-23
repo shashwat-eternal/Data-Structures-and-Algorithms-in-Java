@@ -142,6 +142,7 @@ class Solution {
 | [0040-combination-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ class Solution {
 | [0037-sudoku-solver](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0046-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
