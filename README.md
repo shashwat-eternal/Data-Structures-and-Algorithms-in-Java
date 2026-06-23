@@ -96,6 +96,7 @@ class Solution {
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0010-regular-expression-matching) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -126,4 +127,8 @@ class Solution {
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
