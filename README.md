@@ -102,6 +102,7 @@ class Solution {
 | [0013-roman-to-integer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -126,6 +127,7 @@ class Solution {
 | [0027-remove-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,4 +196,8 @@ class Solution {
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
