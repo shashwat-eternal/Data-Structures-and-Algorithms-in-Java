@@ -99,6 +99,7 @@ class Solution {
 | [0038-count-and-say](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ class Solution {
 | [0036-valid-sudoku](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -144,6 +146,7 @@ class Solution {
 | [0045-jump-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +176,7 @@ class Solution {
 | [0016-3sum-closest](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
