@@ -93,6 +93,7 @@ class Solution {
 | [0022-generate-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ class Solution {
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
 |  |
@@ -162,6 +164,7 @@ class Solution {
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
