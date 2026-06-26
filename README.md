@@ -103,6 +103,7 @@ class Solution {
 | [0043-multiply-strings](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
