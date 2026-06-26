@@ -116,6 +116,7 @@ class Solution {
 | [0041-first-missing-positive](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ class Solution {
 | [0051-n-queens](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +203,7 @@ class Solution {
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +214,7 @@ class Solution {
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,6 +223,7 @@ class Solution {
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0023-merge-k-sorted-lists) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -246,4 +251,8 @@ class Solution {
 | ------- |
 | [0043-multiply-strings](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
