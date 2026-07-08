@@ -75,6 +75,7 @@ class Solution {
 | [0043-multiply-strings](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -137,6 +138,7 @@ class Solution {
 | [0045-jump-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0062-unique-paths) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -269,4 +271,8 @@ class Solution {
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
