@@ -76,6 +76,7 @@ class Solution {
 | [0050-powx-n](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0062-unique-paths) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -141,6 +142,7 @@ class Solution {
 | [0053-maximum-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0062-unique-paths) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -171,6 +173,7 @@ class Solution {
 | [0056-merge-intervals](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0057-insert-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -303,4 +306,8 @@ class Solution {
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
