@@ -77,6 +77,7 @@ class Solution {
 | [0060-permutation-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -113,6 +114,7 @@ class Solution {
 | [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -264,6 +266,7 @@ class Solution {
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +289,7 @@ class Solution {
 | ------- |
 | [0043-multiply-strings](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 ## Segment Tree
 |  |
 | ------- |
