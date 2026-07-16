@@ -82,6 +82,7 @@ class Solution {
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@ class Solution {
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +203,7 @@ class Solution {
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0061-rotate-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +225,7 @@ class Solution {
 | [0049-group-anagrams](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,6 +297,7 @@ class Solution {
 | [0054-spiral-matrix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0068-text-justification) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -328,4 +333,5 @@ class Solution {
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
