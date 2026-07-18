@@ -198,6 +198,7 @@ class Solution {
 | [0073-set-matrix-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -218,6 +219,7 @@ class Solution {
 | [0031-next-permutation](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
