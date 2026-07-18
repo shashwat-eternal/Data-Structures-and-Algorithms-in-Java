@@ -122,6 +122,7 @@ class Solution {
 | [0071-simplify-path](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -196,6 +197,7 @@ class Solution {
 | [0068-text-justification](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -253,6 +255,7 @@ class Solution {
 | [0051-n-queens](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -308,6 +311,7 @@ class Solution {
 | [0063-unique-paths-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +341,7 @@ class Solution {
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
