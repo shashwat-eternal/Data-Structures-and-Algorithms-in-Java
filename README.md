@@ -128,6 +128,7 @@ class Solution {
 | [0076-minimum-window-substring](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -168,6 +169,7 @@ class Solution {
 | [0072-edit-distance](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0091-decode-ways) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
