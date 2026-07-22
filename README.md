@@ -210,6 +210,7 @@ class Solution {
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0090-subsets-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -274,6 +275,7 @@ class Solution {
 | [0077-combinations](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0090-subsets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,6 +315,7 @@ class Solution {
 | [0029-divide-two-integers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0090-subsets-ii) |
 ## Sliding Window
 |  |
 | ------- |
