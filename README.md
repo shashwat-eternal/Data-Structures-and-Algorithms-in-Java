@@ -130,6 +130,7 @@ class Solution {
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0093-restore-ip-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -279,6 +280,7 @@ class Solution {
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0093-restore-ip-addresses) |
 ## Prefix Sum
 |  |
 | ------- |
