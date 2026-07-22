@@ -202,6 +202,7 @@ class Solution {
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -274,6 +275,7 @@ class Solution {
 | [0020-valid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -369,4 +371,8 @@ class Solution {
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
