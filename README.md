@@ -84,6 +84,7 @@ class Solution {
 | [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -173,6 +174,7 @@ class Solution {
 | [0087-scramble-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -407,13 +409,16 @@ class Solution {
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
