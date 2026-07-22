@@ -295,6 +295,7 @@ class Solution {
 | [0071-simplify-path](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -373,6 +374,7 @@ class Solution {
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -398,4 +400,12 @@ class Solution {
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0085-maximal-rectangle) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
