@@ -188,6 +188,7 @@ class Solution {
 | [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0118-pascals-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -234,6 +235,7 @@ class Solution {
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0118-pascals-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
