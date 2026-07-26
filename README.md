@@ -149,6 +149,7 @@ class Solution {
 | [0131-palindrome-partitioning](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -172,6 +173,7 @@ class Solution {
 | [0133-clone-graph](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -211,6 +213,7 @@ class Solution {
 | [0131-palindrome-partitioning](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -269,6 +272,7 @@ class Solution {
 | [0136-single-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -313,6 +317,7 @@ class Solution {
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -349,6 +354,7 @@ class Solution {
 | [0113-path-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -508,6 +514,7 @@ class Solution {
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
