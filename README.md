@@ -253,6 +253,7 @@ class Solution {
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -399,6 +400,7 @@ class Solution {
 | [0073-set-matrix-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 ## Simulation
 |  |
 | ------- |
@@ -419,6 +421,7 @@ class Solution {
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -445,6 +448,7 @@ class Solution {
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -461,6 +465,7 @@ class Solution {
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
