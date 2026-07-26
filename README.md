@@ -191,6 +191,7 @@ class Solution {
 | [0115-distinct-subsequences](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -239,6 +240,7 @@ class Solution {
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
