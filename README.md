@@ -194,6 +194,7 @@ class Solution {
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -432,6 +433,7 @@ class Solution {
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -493,6 +495,7 @@ class Solution {
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +521,7 @@ class Solution {
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
