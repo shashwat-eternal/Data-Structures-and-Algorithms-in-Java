@@ -260,6 +260,7 @@ class Solution {
 | [0128-longest-consecutive-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0135-candy) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -298,6 +299,7 @@ class Solution {
 | [0055-jump-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
