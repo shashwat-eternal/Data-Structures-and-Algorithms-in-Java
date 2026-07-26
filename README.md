@@ -142,6 +142,7 @@ class Solution {
 | [0093-restore-ip-addresses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -273,6 +274,7 @@ class Solution {
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
