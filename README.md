@@ -96,6 +96,7 @@ class Solution {
 | [0070-climbing-stairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -184,6 +185,7 @@ class Solution {
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -283,6 +285,7 @@ class Solution {
 | [0137-single-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -621,4 +624,8 @@ class Solution {
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
