@@ -75,6 +75,7 @@ class Solution {
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@ class Solution {
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -604,4 +606,12 @@ class Solution {
 | [0099-recover-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
