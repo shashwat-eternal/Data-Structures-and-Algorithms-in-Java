@@ -77,6 +77,7 @@ class Solution {
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -314,6 +315,7 @@ class Solution {
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -343,6 +345,7 @@ class Solution {
 | [0075-sort-colors](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -398,6 +401,7 @@ class Solution {
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -408,6 +412,7 @@ class Solution {
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String Matching
 |  |
