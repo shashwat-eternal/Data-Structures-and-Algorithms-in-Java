@@ -159,6 +159,7 @@ class Solution {
 | [0132-palindrome-partitioning-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -321,6 +322,7 @@ class Solution {
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
