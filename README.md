@@ -73,6 +73,7 @@ class Solution {
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ class Solution {
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -305,6 +307,7 @@ class Solution {
 | [0088-merge-sorted-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
