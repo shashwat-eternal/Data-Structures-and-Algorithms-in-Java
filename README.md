@@ -193,6 +193,7 @@ class Solution {
 | [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -200,6 +201,7 @@ class Solution {
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
@@ -300,6 +302,7 @@ class Solution {
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -366,6 +369,7 @@ class Solution {
 | [0088-merge-sorted-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -425,6 +429,7 @@ class Solution {
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
