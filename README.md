@@ -78,6 +78,7 @@ class Solution {
 | [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +190,7 @@ class Solution {
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -328,6 +330,7 @@ class Solution {
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
