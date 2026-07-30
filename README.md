@@ -448,6 +448,7 @@ class Solution {
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -474,6 +475,7 @@ class Solution {
 | [0136-single-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
