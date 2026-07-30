@@ -685,4 +685,8 @@ class Solution {
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
