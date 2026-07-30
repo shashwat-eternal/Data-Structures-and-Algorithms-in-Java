@@ -689,4 +689,5 @@ class Solution {
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
