@@ -245,6 +245,7 @@ class Solution {
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -312,6 +313,7 @@ class Solution {
 | [0162-find-peak-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -495,6 +497,7 @@ class Solution {
 | [0079-word-search](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 ## Simulation
 |  |
 | ------- |
