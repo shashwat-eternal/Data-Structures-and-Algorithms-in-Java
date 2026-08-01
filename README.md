@@ -102,6 +102,7 @@ class Solution {
 | [0168-excel-sheet-column-title](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0172-factorial-trailing-zeroes) |
+| [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -126,6 +127,7 @@ class Solution {
 | [0050-powx-n](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -247,6 +249,7 @@ class Solution {
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
+| [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -316,6 +319,7 @@ class Solution {
 | [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0179-largest-number) |
+| [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -698,4 +702,8 @@ class Solution {
 | ------- |
 | [0175-combine-two-tables](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0176-second-highest-salary) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
