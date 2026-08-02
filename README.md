@@ -208,6 +208,7 @@ class Solution {
 | [0149-max-points-on-a-line](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -329,6 +330,7 @@ class Solution {
 | [0213-house-robber-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -404,6 +406,7 @@ class Solution {
 | [0169-majority-element](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
