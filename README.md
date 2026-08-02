@@ -482,6 +482,7 @@ class Solution {
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -749,6 +750,7 @@ class Solution {
 | [0173-binary-search-tree-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -808,4 +810,5 @@ class Solution {
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
