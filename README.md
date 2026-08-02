@@ -252,6 +252,7 @@ class Solution {
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
+| [0213-house-robber-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -324,6 +325,7 @@ class Solution {
 | [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
