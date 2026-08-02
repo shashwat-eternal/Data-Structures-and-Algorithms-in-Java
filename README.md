@@ -103,6 +103,7 @@ class Solution {
 | [0171-excel-sheet-column-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -178,6 +179,7 @@ class Solution {
 | [0212-word-search-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -472,6 +474,7 @@ class Solution {
 | [0173-binary-search-tree-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
