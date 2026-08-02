@@ -105,6 +105,7 @@ class Solution {
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -133,6 +134,7 @@ class Solution {
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -266,6 +268,7 @@ class Solution {
 | [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
