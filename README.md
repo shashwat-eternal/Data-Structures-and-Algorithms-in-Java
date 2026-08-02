@@ -102,6 +102,7 @@ class Solution {
 | [0168-excel-sheet-column-title](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -128,6 +129,7 @@ class Solution {
 | [0050-powx-n](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -175,6 +177,7 @@ class Solution {
 | [0211-design-add-and-search-words-data-structure](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -467,6 +470,7 @@ class Solution {
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
