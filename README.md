@@ -79,6 +79,7 @@ class Solution {
 | [0147-insertion-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ class Solution {
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -389,6 +391,7 @@ class Solution {
 | [0151-reverse-words-in-a-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -486,6 +489,7 @@ class Solution {
 | [0225-implement-stack-using-queues](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
