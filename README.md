@@ -334,6 +334,7 @@ class Solution {
 | [0217-contains-duplicate](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0220-contains-duplicate-iii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -411,6 +412,7 @@ class Solution {
 | [0215-kth-largest-element-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -516,6 +518,7 @@ class Solution {
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -764,4 +767,9 @@ class Solution {
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
