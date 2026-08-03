@@ -374,6 +374,7 @@ class Solution {
 | [0239-sliding-window-maximum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -457,6 +458,7 @@ class Solution {
 | [0229-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -814,6 +816,7 @@ class Solution {
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Iterator
 |  |
