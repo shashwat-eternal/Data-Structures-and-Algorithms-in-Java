@@ -111,6 +111,7 @@ class Solution {
 | [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -232,6 +233,7 @@ class Solution {
 | [0219-contains-duplicate-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -282,6 +284,7 @@ class Solution {
 | [0221-maximal-square](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
@@ -532,6 +535,7 @@ class Solution {
 | [0215-kth-largest-element-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
