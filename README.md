@@ -592,6 +592,7 @@ class Solution {
 | [0222-count-complete-tree-nodes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0278-first-bad-version) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -874,4 +875,8 @@ class Solution {
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
