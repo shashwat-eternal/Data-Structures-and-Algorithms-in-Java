@@ -109,6 +109,7 @@ class Solution {
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -597,6 +598,7 @@ class Solution {
 | [0054-spiral-matrix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
@@ -678,6 +680,7 @@ class Solution {
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
