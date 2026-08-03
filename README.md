@@ -113,6 +113,7 @@ class Solution {
 | [0263-ugly-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -287,6 +288,7 @@ class Solution {
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
@@ -689,6 +691,7 @@ class Solution {
 | [0130-surrounded-regions](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
