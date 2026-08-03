@@ -108,6 +108,7 @@ class Solution {
 | [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@ class Solution {
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -188,6 +190,7 @@ class Solution {
 | [0214-shortest-palindrome](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -273,6 +276,7 @@ class Solution {
 | [0213-house-robber-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
@@ -678,6 +682,7 @@ class Solution {
 | [0070-climbing-stairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
