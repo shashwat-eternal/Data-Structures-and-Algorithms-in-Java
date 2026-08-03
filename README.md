@@ -375,6 +375,7 @@ class Solution {
 | [0260-single-number-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0275-h-index-ii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -590,6 +591,7 @@ class Solution {
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0275-h-index-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
