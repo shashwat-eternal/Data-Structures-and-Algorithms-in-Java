@@ -366,6 +366,7 @@ class Solution {
 | [0229-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -555,6 +556,7 @@ class Solution {
 | [0191-number-of-1-bits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0260-single-number-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
