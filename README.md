@@ -115,6 +115,7 @@ class Solution {
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -859,6 +860,7 @@ class Solution {
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
@@ -913,4 +915,20 @@ class Solution {
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
