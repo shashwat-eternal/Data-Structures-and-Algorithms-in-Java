@@ -202,6 +202,7 @@ class Solution {
 | [0257-binary-tree-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -695,6 +696,7 @@ class Solution {
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -716,6 +718,7 @@ class Solution {
 | [0133-clone-graph](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -779,6 +782,7 @@ class Solution {
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -815,6 +819,7 @@ class Solution {
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -838,6 +843,7 @@ class Solution {
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
