@@ -384,6 +384,7 @@ class Solution {
 | [0283-move-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -624,6 +625,7 @@ class Solution {
 | [0174-dungeon-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
@@ -632,6 +634,7 @@ class Solution {
 | [0067-add-binary](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
