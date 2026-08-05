@@ -431,6 +431,7 @@ class Solution {
 | [0234-palindrome-linked-list](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -475,6 +476,7 @@ class Solution {
 | [0242-valid-anagram](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -560,6 +562,7 @@ class Solution {
 | [0218-the-skyline-problem](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -834,6 +837,7 @@ class Solution {
 | [0225-implement-stack-using-queues](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -931,4 +935,8 @@ class Solution {
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
