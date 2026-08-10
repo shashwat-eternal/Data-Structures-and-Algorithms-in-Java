@@ -121,6 +121,7 @@ class Solution {
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -306,6 +307,7 @@ class Solution {
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -888,6 +890,7 @@ class Solution {
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -948,10 +951,12 @@ class Solution {
 | ------- |
 | [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 ## Impartial Game
 |  |
 | ------- |
@@ -964,4 +969,9 @@ class Solution {
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
