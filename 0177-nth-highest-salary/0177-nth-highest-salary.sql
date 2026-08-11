@@ -4,12 +4,9 @@ BEGIN
   SET offset = N - 1;
 
   RETURN (
-    SELECT salary
-    FROM (
-      SELECT DISTINCT salary
-      FROM Employee
-      ORDER BY salary DESC
-      LIMIT offset, 1
-    ) AS subquery
+    SELECT DISTINCT salary
+    FROM Employee
+    ORDER BY salary DESC
+    LIMIT offset, 1
   );
 END;
