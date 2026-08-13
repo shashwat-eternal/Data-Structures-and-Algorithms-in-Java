@@ -1,42 +1,33 @@
 class Solution {
-    static class Node {
-        int leftLen;
-        int rightLen;
-        int maxLen;
-        int len;
-        char leftChar;
-        char rightChar;
-
-        Node() {}
-
-        Node(char c) {
-            leftChar = rightChar = c;
-            leftLen = rightLen = maxLen = len = 1;
-        }
-    }
-
-    Node[] tree;
-    char[] arr;
+    int[] leftLen, rightLen, maxLen, len;
+    char[] leftChar, rightChar, arr;
 
     public int[] longestRepeating(String s, String queryCharacters, int[] queryIndices) {
         int n = s.length();
         int k = queryIndices.length;
 
         arr = s.toCharArray();
-        tree = new Node[4 * n];
+
+        int size = 4 * n;
+        leftLen = new int[size];
+        rightLen = new int[size];
+        maxLen = new int[size];
+        len = new int[size];
+        leftChar = new char[size];
+        rightChar = new char[size];
 
         build(1, 0, n - 1);
 
         int[] ans = new int[k];
 
         for (int i = 0; i < k; i++) {
-            int index = queryIndices[i];
+            int idx = queryIndices[i];
             char ch = queryCharacters.charAt(i);
 
-            arr[index] = ch;
-            update(1, 0, n - 1, index, ch);
+            arr[idx] = ch;
+            update(1, 0, n - 1, idx);
 
-            ans[i] = tree[1].maxLen;
+            ans[i] = maxLen[1];
         }
 
         return ans;
@@ -44,67 +35,62 @@ class Solution {
 
     private void build(int node, int l, int r) {
         if (l == r) {
-            tree[node] = new Node(arr[l]);
+            leftLen[node] = rightLen[node] = maxLen[node] = len[node] = 1;
+            leftChar[node] = rightChar[node] = arr[l];
             return;
         }
 
-        int mid = l + (r - l) / 2;
+        int mid = (l + r) >>> 1;
 
-        build(node * 2, l, mid);
-        build(node * 2 + 1, mid + 1, r);
+        build(node << 1, l, mid);
+        build(node << 1 | 1, mid + 1, r);
 
-        tree[node] = merge(tree[node * 2], tree[node * 2 + 1]);
+        merge(node, node << 1, node << 1 | 1);
     }
 
-    private void update(int node, int l, int r, int index, char ch) {
+    private void update(int node, int l, int r, int idx) {
         if (l == r) {
-            tree[node] = new Node(ch);
+            leftLen[node] = rightLen[node] = maxLen[node] = len[node] = 1;
+            leftChar[node] = rightChar[node] = arr[idx];
             return;
         }
 
-        int mid = l + (r - l) / 2;
+        int mid = (l + r) >>> 1;
 
-        if (index <= mid) {
-            update(node * 2, l, mid, index, ch);
+        if (idx <= mid) {
+            update(node << 1, l, mid, idx);
         } else {
-            update(node * 2 + 1, mid + 1, r, index, ch);
+            update(node << 1 | 1, mid + 1, r, idx);
         }
 
-        tree[node] = merge(tree[node * 2], tree[node * 2 + 1]);
+        merge(node, node << 1, node << 1 | 1);
     }
 
-    private Node merge(Node a, Node b) {
-        Node res = new Node();
+    private void merge(int p, int a, int b) {
+        len[p] = len[a] + len[b];
 
-        res.len = a.len + b.len;
+        leftChar[p] = leftChar[a];
+        rightChar[p] = rightChar[b];
 
-        res.leftChar = a.leftChar;
-        res.rightChar = b.rightChar;
+        leftLen[p] = leftLen[a];
 
-       
-        res.leftLen = a.leftLen;
-
-        if (a.leftLen == a.len && a.rightChar == b.leftChar) {
-            res.leftLen = a.len + b.leftLen;
+        if (leftLen[a] == len[a] && rightChar[a] == leftChar[b]) {
+            leftLen[p] = len[a] + leftLen[b];
         }
 
+        rightLen[p] = rightLen[b];
 
-        res.rightLen = b.rightLen;
-
-        if (b.rightLen == b.len && a.rightChar == b.leftChar) {
-            res.rightLen = b.len + a.rightLen;
+        if (rightLen[b] == len[b] && rightChar[a] == leftChar[b]) {
+            rightLen[p] = len[b] + rightLen[a];
         }
 
-        res.maxLen = Math.max(a.maxLen, b.maxLen);
+        maxLen[p] = Math.max(maxLen[a], maxLen[b]);
 
-       
-        if (a.rightChar == b.leftChar) {
-            res.maxLen = Math.max(
-                res.maxLen,
-                a.rightLen + b.leftLen
+        if (rightChar[a] == leftChar[b]) {
+            maxLen[p] = Math.max(
+                maxLen[p],
+                rightLen[a] + leftLen[b]
             );
         }
-
-        return res;
     }
 }
