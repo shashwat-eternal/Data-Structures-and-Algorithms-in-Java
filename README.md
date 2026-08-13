@@ -306,6 +306,7 @@ class Solution {
 | [0241-different-ways-to-add-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
@@ -402,6 +403,7 @@ class Solution {
 | [0284-peeking-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -638,6 +640,7 @@ class Solution {
 | [0275-h-index-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -985,4 +988,8 @@ class Solution {
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
