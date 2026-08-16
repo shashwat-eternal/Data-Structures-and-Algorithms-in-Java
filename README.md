@@ -123,6 +123,7 @@ class Solution {
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -267,6 +268,7 @@ class Solution {
 | [0229-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0299-bulls-and-cows) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -414,6 +416,7 @@ class Solution {
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -468,6 +471,7 @@ class Solution {
 | [0134-gas-station](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0179-largest-number) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
@@ -909,6 +913,7 @@ class Solution {
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -971,11 +976,13 @@ class Solution {
 | [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -989,6 +996,7 @@ class Solution {
 | ------- |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
