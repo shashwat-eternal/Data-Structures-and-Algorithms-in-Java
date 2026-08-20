@@ -423,6 +423,7 @@ class Solution {
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -682,6 +683,7 @@ class Solution {
 | [0068-text-justification](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
