@@ -411,6 +411,7 @@ class Solution {
 | [0287-find-the-duplicate-number](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -552,6 +553,7 @@ class Solution {
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -891,6 +893,7 @@ class Solution {
 | [0284-peeking-iterator](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
