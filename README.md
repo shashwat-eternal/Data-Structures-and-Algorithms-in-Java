@@ -213,6 +213,7 @@ class Solution {
 | [0301-remove-invalid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0301-remove-invalid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -655,6 +656,7 @@ class Solution {
 | [0219-contains-duplicate-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
