@@ -1,0 +1,45 @@
+
+class Solution {
+    public int[] nodesBetweenCriticalPoints(ListNode head) {
+        if (head == null || head.next == null || head.next.next == null) {
+            return new int[]{-1, -1};
+        }
+
+        int index = 1; // start from second node
+        int firstCritical = -1;
+        int lastCritical = -1;
+        int minDist = Integer.MAX_VALUE;
+        int maxDist = -1;
+
+        ListNode prev = head;
+        ListNode curr = head.next;
+
+        while (curr.next != null) {
+            int prevVal = prev.val;
+            int currVal = curr.val;
+            int nextVal = curr.next.val;
+
+            // Check if current node is a critical point
+            if ((currVal > prevVal && currVal > nextVal) || 
+                (currVal < prevVal && currVal < nextVal)) {
+                
+                if (firstCritical == -1) {
+                    firstCritical = index;
+                } else {
+                    minDist = Math.min(minDist, index - lastCritical);
+                    maxDist = index - firstCritical;
+                }
+                lastCritical = index;
+            }
+
+            prev = curr;
+            curr = curr.next;
+            index++;
+        }
+
+        if (minDist == Integer.MAX_VALUE) {
+            return new int[]{-1, -1};
+        }
+        return new int[]{minDist, maxDist};
+    }
+}
