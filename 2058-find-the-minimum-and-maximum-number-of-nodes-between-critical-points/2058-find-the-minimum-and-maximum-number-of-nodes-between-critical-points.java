@@ -5,7 +5,7 @@ class Solution {
             return new int[]{-1, -1};
         }
 
-        int index = 1; // start from second node
+        int index = 1; 
         int firstCritical = -1;
         int lastCritical = -1;
         int minDist = Integer.MAX_VALUE;
@@ -19,7 +19,7 @@ class Solution {
             int currVal = curr.val;
             int nextVal = curr.next.val;
 
-            // Check if current node is a critical point
+           
             if ((currVal > prevVal && currVal > nextVal) || 
                 (currVal < prevVal && currVal < nextVal)) {
                 
