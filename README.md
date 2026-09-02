@@ -267,6 +267,7 @@ class Solution {
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3731-find-missing-elements) |
@@ -443,6 +444,7 @@ class Solution {
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3731-find-missing-elements) |
@@ -652,6 +654,7 @@ class Solution {
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -698,6 +701,7 @@ class Solution {
 | [0221-maximal-square](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0304-range-sum-query-2d-immutable) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -790,6 +794,7 @@ class Solution {
 | [0301-remove-invalid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
