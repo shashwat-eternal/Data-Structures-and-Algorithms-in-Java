@@ -214,6 +214,7 @@ class Solution {
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0301-remove-invalid-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1189-maximum-number-of-balloons) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -327,6 +328,7 @@ class Solution {
 | [0300-longest-increasing-subsequence](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shashwat-eternal/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
